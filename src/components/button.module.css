@@ -1,0 +1,16 @@
+.btn {
+  border-radius: 5px;
+  padding: 5px 5px;
+}
+
+.btn-primary {
+  background-color: cyan;
+}
+
+.btn-success {
+  background-color: rgb(40, 178, 40);
+}
+
+.btn-danger {
+  background-color: rgb(219, 34, 34);
+}
